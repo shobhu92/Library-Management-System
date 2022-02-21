@@ -1,2 +1,2 @@
-# Library-Management-System
+# LMS
 Library management system using Django framework
